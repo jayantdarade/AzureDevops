@@ -1,0 +1,7 @@
+Hi,
+
+This is jayant.
+committing file from local machine machine to github repo
+
+Thanks,
+Ragnar loathbrok
