@@ -1,6 +1,7 @@
 Hello,
 
-I am practising Git 
+I am practising Git.
+learning git add commit push
 
 Thanks,
 Jayant Darade.
